@@ -1,6 +1,8 @@
 {
   "current_event_banner": "Блэкбёрд",
+  "event_start_time": "2026-09-30T05:00:00",
   "event_end_time": "2026-10-21T04:00:00",
   "rerun_banner": "Лакримоза",
+  "rerun_start_time": "2026-09-30T05:00:00",
   "rerun_end_time": "2026-10-21T04:00:00"
 }
