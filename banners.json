@@ -1,14 +1,14 @@
 {
-  "current_character_banner": "Блэкбёрд",
-  "character_start_time": "2026-09-30T05:00:00",
-  "character_end_time": "2026-10-21T04:00:00",
-  "rerun_character_banner": "Лакримоза",
-  "rerun_character_start_time": "2026-09-30T05:00:00",
-  "rerun_character_end_time": "2026-10-21T04:00:00",
-  "current_arc_banner": "Преступление и наказание",
-  "arc_start_time": "2026-09-30T05:00:00",
-  "arc_end_time": "2026-10-21T04:00:00",
-  "rerun_arc_banner": "Последняя роза",
-  "rerun_arc_start_time": "2026-09-30T05:00:00",
-  "rerun_arc_end_time": "2026-10-21T04:00:00"
+  "current_character_banner": "Аканэ Рин",
+  "character_start_time": "2026-10-21T04:00:00",
+  "character_end_time": "2026-11-11T04:00:00",
+  "rerun_character_banner": "",
+  "rerun_character_start_time": "",
+  "rerun_character_end_time": "",
+  "current_arc_banner": "Обратная сторона луны",
+  "arc_start_time": "2026-10-21T04:00:00",
+  "arc_end_time": "2026-11-11T04:00:00",
+  "rerun_arc_banner": "",
+  "rerun_arc_start_time": "",
+  "rerun_arc_end_time": ""
 }
